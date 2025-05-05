@@ -1,0 +1,54 @@
+.parallax {
+    height: 50vh;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5e41a5ca73ee6a4a9e5fda10/1631643514889-LRXJ5U1EYYQU3J8H5ENO/20210521_FS_Baintree_Web2500px_002.jpg?format=1500w");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.content {
+    width: 40%;
+    color: black;
+    font-weight: bold;
+    font-size: 50px !important;
+}
+
+.content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: rgb(71, 44, 11) !important;
+}
+
+.content p {
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+.learn-more {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 3px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.learn-more:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+

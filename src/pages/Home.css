@@ -1,0 +1,77 @@
+.img-prdt1{
+    width: 50%;
+    margin: 40px;
+    padding: 20px;
+    margin-right: 700px;
+    margin-left: -20px;
+ 
+}
+.img-products{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.img1{
+    transition: transform 0.3s ease-in-out;
+    height: 250px;
+    width: 300px;
+}
+.img1:hover{
+    transform: scale(1.05);
+}
+.img2{
+    transition: transform 0.3s ease-in-out;
+    height: 250px;
+    width: 300px;
+}
+.img2:hover{
+    transform: scale(1.05);
+}
+.img3{
+    transition: transform 0.3s ease-in-out;
+    height: 250px;
+    width: 300px;
+}
+.img3:hover{
+    transform: scale(1.05);
+}
+.img4{
+    transition: transform 0.3s ease-in-out;
+    height: 250px;
+    width: 300px;
+}
+.img4:hover{
+    transform: scale(1.05);
+}
+.img5{
+    transition: transform 0.3s ease-in-out;
+    height: 250px;
+    width: 300px;
+}
+.img5:hover{
+    transform: scale(1.05);
+}
+.img6{
+    transition: transform 0.3s ease-in-out;
+    height: 250px;
+    width: 300px;
+}
+.img6:hover{
+    transform: scale(1.05);
+}
+.img7{
+    transition: transform 0.3s ease-in-out;
+    height: 250px;
+    width: 300px;
+}
+.img7:hover{
+    transform: scale(1.05);
+}
+.img8{
+    transition: transform 0.3s ease-in-out; 
+     height: 250px;
+    width: 300px;
+}
+.img8:hover{
+    transform: scale(1.05);
+}
